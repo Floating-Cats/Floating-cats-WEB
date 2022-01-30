@@ -1,0 +1,23 @@
+body{
+    font-family: 'Gloria Hallelujah', cursive; 
+}
+.navbar{
+    background-color: rgb(182, 191, 207);
+}
+.navbar-nav{
+    margin-left: 3rem;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: rgb(65, 150, 155) !important;
+    font-weight: bold;
+}
+button{
+    margin-left: 3rem;
+    border-radius: 8px;
+    padding: 14px 30x;
+    font-family: 'Gloria Hallelujah', cursive;
+}
